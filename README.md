@@ -1,10 +1,11 @@
 
 # CompanyManagementApp
 --
-### 1. Şirket Kayıt
+
 - CompanyManagementApp, şirket ismi, kuruluş yılı ve bütçe ile şirket oluşturulan bir uygulamadır. Uygulamada, şirkete çalışan eklenebilir, çalışanlar listelenebilir, bütçeye gelir & gider eklenebilir ve bütçeden maaşlar ödenebilir.
 - Küçük cihazlarda da çalışabilmesi için (en küçük iPhoneSE 3rd Gen) textField'lara tıklandığında klavye açılırken ekran yukarı hareket eder.
 
+### 1. Şirket Kayıt
 <div align="center">
 <table>
 <tr>
